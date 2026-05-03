@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Azure Browser Logo" width="120" />
+<img src="https://github.com/user-attachments/assets/570b58cc-dc03-48ef-a536-68b4e840e06e" alt="Azure Browser Logo" width="120" />
 
 # Azure Browser
 
